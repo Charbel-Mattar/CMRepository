@@ -1,7 +1,30 @@
 <!DOCTYPE html>
 <head>
   <style>
-    
+    ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
   </style>
 </head>
 <body>
@@ -12,21 +35,14 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+ 
+ <ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="contact.html">Contact</a></li>
+  <li><a href="about.html">About</a></li>
+</ul> 
 
 
-<nav class="navbar navbar-expand-sm navbar-dark bg-info">
-    <button class="navbar-toggler" data-toggle="collapse">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="mainNav">
-        <div class="navbar-nav">
-          <a class="nav-item nav-link active" href="index.html">Home</a>
-          <a class="nav-item nav-link" href="about.html">About</a>
-          <!-- <a class="nav-item nav-link" href="port.html">Work</a>-->
-          <a class="nav-item nav-link" href="contact.html">Contact</a>
-        </div>
-  </div>
-</nav>
   <!--<p>This example demonstrates a 50%/50% split on small, medium and large devices. On extra small devices, it will stack (100% width).</p>      
   <p>Resize the browser window to see the effect.</p> -->      
   <!--<div class="row">
