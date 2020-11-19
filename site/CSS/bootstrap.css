@@ -45,6 +45,7 @@
 
 html 
 {
+  margin: 0;
   font-family: sans-serif;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
@@ -4074,6 +4075,8 @@ input[type="button"].btn-block {
 }
 
 .nav {
+  margin-right: 0;
+  margin-left:0;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
