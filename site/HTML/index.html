@@ -1,12 +1,26 @@
 <!DOCTYPE html>
 <head>
   <style>
+
+  .container {
+  height: relative;
+  position: relative;
+  border: 3px solid green;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
     ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: green;
 }
 
 li {
@@ -29,17 +43,18 @@ li a:hover {
 h2 {
   text-align: center;
 }
+
+
   </style>
 </head>
 <body>
-<div class="container-fluid">
-  <h1 > HomeManagement Application</h1>
+  <h1> HomeManagement Application</h1>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
- 
+
  <ul>
   <li><a href="index.html">Home</a></li>
   <li><a href="contact.html">Contact</a></li>
@@ -47,37 +62,24 @@ h2 {
 </ul> 
 
 <h2>Easy way to handle ALL your Home needs.</h2>
-
+<div class="container">
 <div class="row">
     <div class="col-md-4">
-        <h2>Home Inventory</h2>
-        <p>
-            Manage All Items you need to buy or you consumed!
-        </p>
-        <p><input type="button" value="Inventory" onclick="@("window.location.href='" + @Url.Action("Inventory", "Inventory") + "'");" /></p>
+        <h2 align="center">Home Inventory</h2>
+        <p align="center">Manage All Items you need to buy or you consumed!</p>
+        <p><input type="button" value="Inventory" onclick="window.location.href='inventory.html'">
     </div>
     <div class="col-md-4">
         <h2>Home Maintenance</h2>
-        <p>Follow up on home maintenance work, issues and due dates.</p>
-        <p><input type="button" value="Maintenance" onclick="@("window.location.href='" + @Url.Action("Maintenance", "Maintenance") + "'");" /></p>
+        <p align="center">Follow up on home maintenance work, issues and due dates.</p>
+        <p><input type="button" value="Maintenance" onclick="window.location.href='maintenance.html'">
     </div>
     <div class="col-md-4">
         <h2>Home Expenses</h2>
-        <p>Check monthly bills and daily expenses.</p>
-        <p><input type="button" value="Expenses" onclick="@("window.location.href='" + @Url.Action("Expenses", "Expenses") + "'");" /></p>
-    </div>
-</div>
-  <!--<p>This example demonstrates a 50%/50% split on small, medium and large devices. On extra small devices, it will stack (100% width).</p>      
-  <p>Resize the browser window to see the effect.</p> -->      
-  <!--<div class="row">
-    <div class="col-sm-6" style="background-color:yellow;">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    </div>
-    <div class="col-sm-2" style="background-color:pink;">
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.    
+        <p align="center">Check monthly bills and daily expenses.</p>
+        <p><input type="button" value="Expenses" onclick="window.location.href='expenses.html'">
     </div>
   </div>
-</div>-->
+</div>
 </body>
 </html>
