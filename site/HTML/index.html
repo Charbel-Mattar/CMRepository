@@ -1,6 +1,30 @@
 <!DOCTYPE html>
 <head>
+  <link rel="stylesheet" href="styleMainPage.css">
   <style>
+    ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: green;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
 .rectangle {
   height:relative;
   width: relative;
@@ -18,45 +42,16 @@
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
 }
-    ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: green;
-}
-
-li {
-  float: left;
-}
-
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-/* Change the link color to #111 (black) on hover */
-li a:hover {
-  background-color: #111;
-}
-
-h2 {
-  text-align: center;
-}
-
-
   </style>
 </head>
 <body>
   <h1> HomeManagement</h1>
   <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="styleMainPage.css">
+    <link rel="stylesheet" type="text/css" href="site/CSS/styleMainPage.css" media="screen"/>
+    <script src="jquery.min.js"></script>
+    <script src="bootstrap.min.js"></script>
 
  <ul>
   <li><a href="index.html">Home</a></li>
@@ -64,7 +59,7 @@ h2 {
   <li><a href="about.html">About</a></li>
 </ul> 
 
-<h2>Easy way to handle ALL your Home needs.</h2>
+<h2 align="center">Easy way to handle ALL your Home needs.</h2>
 <div class="container">
 <div class="row">
     <div class="col-md-4">
@@ -73,12 +68,12 @@ h2 {
         <div class="rectangle" align="center"><p><input type="button" value="Inventory" onclick="window.location.href='inventory.html'"></p></div>
     </div>
     <div class="col-md-4">
-        <h2>Home Maintenance</h2>
+        <h2 align="center">Home Maintenance</h2>
         <p align="center">Follow up on home maintenance work, issues and due dates.</p>
         <div class="rectangle" align="center"><p><input type="button" value="Maintenance" onclick="window.location.href='maintenance.html'"></p></div>
     </div>
     <div class="col-md-4">
-        <h2>Home Expenses</h2>
+        <h2 align="center">Home Expenses</h2>
         <p align="center">Check monthly bills and daily expenses.</p>
         <div class="rectangle" align="center"><p><input type="button" value="Expenses" onclick="window.location.href='expenses.html'"></p></div>
     </div>
