@@ -263,3 +263,6 @@ li a:hover {
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
 }
+.label{
+  font-family: Calibri;
+}
