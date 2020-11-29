@@ -16,8 +16,8 @@
   transform: translateY(-50%);
 }
 /* Change the link color to #111 (black) on hover */
-li a:hover {
-  background-color: #111;
+li a:hover, active {
+  background-color: green;
 }
 
 h2 {
@@ -102,7 +102,7 @@ a[data-toggle="collapse"] {
 
 .overlay a:hover, .overlay a:focus 
 {
-  color: black;
+  color: green;
 }
 
 .overlay .closebtn 
@@ -244,7 +244,7 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-  background-color: #111;
+  background-color: green;
 }
 .rectangle {
   height:relative;
