@@ -277,13 +277,11 @@ li a:hover {
 /* Control the left side */
 .left {
   left: 0;
-  padding: 2px;
 }
 
 /* Control the right side */
 .right {
   right: 0;
-  padding: 2px;
 }
 
 /* If you want the content centered horizontally and vertically */
@@ -299,4 +297,7 @@ li a:hover {
 .centered img {
   width: 150px;
   border-radius: 50%;
+}
+.padding {
+  padding-left: 50px;
 }
