@@ -301,3 +301,6 @@ li a:hover {
 .padding {
   padding-left: 50px;
 }
+p.ex1 {
+  padding-right: 100px;
+}
