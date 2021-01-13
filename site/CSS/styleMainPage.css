@@ -298,9 +298,9 @@ li a:hover {
   width: 150px;
   border-radius: 50%;
 }
-.padding {
+.padd50 {
   padding-left: 50px;
 }
-p.ex1 {
+.padd100 {
   padding-right: 100px;
 }
