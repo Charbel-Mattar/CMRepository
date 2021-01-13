@@ -324,4 +324,5 @@ li a:hover {
   width: 100%;
   color: white;
   text-align: center;
+  display: block;
 }
