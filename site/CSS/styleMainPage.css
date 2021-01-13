@@ -312,7 +312,7 @@ li a:hover {
   float: left;
   width: : 33.33%;
 }
-  .row:after {
+  .row: {
   content: "";
   display: table;
   clear: both;
