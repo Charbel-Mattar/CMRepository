@@ -390,7 +390,6 @@ li a:hover {
 .rightpanepadding {
   width: 25%;
   height: 100%;
-  padding-right: 20px;
   float: right;
   border-collapse: collapse;
 }
