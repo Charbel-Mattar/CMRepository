@@ -347,6 +347,7 @@ li a:hover {
   text-align: left;
   display: block;
   color: black;
+  padding-left: 10px;
 }
 .leftpane {
     width: 25%;
