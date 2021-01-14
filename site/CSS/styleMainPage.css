@@ -394,3 +394,6 @@ li a:hover {
   float: right;
   border-collapse: collapse;
 }
+.border{
+  border: 2px solid blue;
+}
