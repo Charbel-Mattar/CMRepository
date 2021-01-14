@@ -330,6 +330,7 @@ li a:hover {
 .column {
   float: left;
   width: : 33.33%;
+  height: 100%;
   background-color: lightblue;
 }
   .row: {
