@@ -383,14 +383,14 @@ li a:hover {
 
 .leftmiddlepane
 {
-  width: 75%;
+  width: 60%;
   height: 100%;
   float: left;
   border-collapse: collapse;
 }
 
 .rightpanepadding {
-  width: 25%;
+  width: 40%;
   height: 100%;
   float: right;
   border-collapse: collapse;
@@ -399,11 +399,7 @@ li a:hover {
   border: 2px solid blue;
 }
 
-img {
-  width: 100px;
-  height: 80%;
-  display: block; /* remove extra space below image */
-    }
+
 .box {
   width: 250px;        
   border: 5px solid black;
