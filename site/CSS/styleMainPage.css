@@ -295,11 +295,15 @@ li a:hover {
 
 /* Control the left side */
 .left {
+  width: 50%;
+  height: 100%;
   left: 0;
 }
 
 /* Control the right side */
 .right {
+  width: 20%;
+  height: 100%;
   right: 0;
 }
 
