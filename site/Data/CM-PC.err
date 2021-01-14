@@ -1,0 +1,1200 @@
+2019-05-18T09:41:06.007744Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-05-18T09:41:13.760958Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-05-18T09:41:14.244559Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-05-18T09:41:14.384959Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-05-18T11:03:50.323000Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-05-18T11:04:09.760634Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-05-29T16:13:11.405714Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-05-29T16:13:11.717715Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1520
+2019-05-29T16:13:41.451367Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-05-29T16:13:44.540172Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-05-29T16:13:45.975375Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-05-29T21:11:37.965145Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-05-29T21:11:44.657556Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-05-30T14:51:23.477939Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-05-30T14:51:23.774339Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 3064
+2019-05-30T14:52:04.069210Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-05-30T14:52:07.828816Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-05-30T14:52:09.357619Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-05-30T20:45:14.424623Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-05-30T20:45:20.945434Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-05-31T17:01:39.002522Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-05-31T17:01:39.127322Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 3056
+2019-05-31T17:02:10.155777Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-05-31T17:02:12.074580Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-05-31T17:02:12.682981Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-05-31T19:44:57.982545Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-05-31T19:45:02.007352Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-05-31T20:33:30.268909Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-05-31T20:33:30.487309Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1348
+2019-05-31T20:33:55.899754Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-05-31T20:33:57.334956Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-05-31T20:33:57.974557Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-06-01T03:06:24.997957Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-06-01T03:06:33.328372Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-06-01T04:18:04.161747Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-06-01T04:18:04.348947Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2652
+2019-06-01T04:18:40.256610Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-06-01T04:18:41.567013Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-06-01T04:18:42.549814Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-06-01T04:22:22.815905Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-06-01T04:22:27.449113Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-06-01T20:47:59.521690Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-06-01T20:47:59.708890Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1788
+2019-06-01T20:48:23.732932Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-06-01T20:48:24.965334Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-06-01T20:48:25.714136Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-06-01T23:14:13.966139Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-06-01T23:14:19.192148Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-06-02T18:02:07.762505Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-06-02T18:02:07.949706Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2836
+2019-06-02T18:02:41.332565Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-06-02T18:02:42.611767Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-06-02T18:02:43.251368Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-06-02T19:44:57.569489Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-06-02T19:45:03.497499Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-06-02T20:50:35.044482Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-06-02T20:50:35.184882Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 860
+2019-06-02T20:51:01.190128Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-06-02T20:51:02.375730Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-06-02T20:51:02.781330Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-06-02T20:53:39.173005Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-06-02T20:53:46.817018Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-06-24T16:58:52.131689Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-06-24T16:58:52.287689Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2188
+2019-06-24T16:59:23.035343Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-06-24T16:59:24.813746Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-06-24T16:59:25.515748Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-06-24T19:16:08.782386Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-06-24T19:16:19.250004Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-07-17T17:13:11.161713Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-07-17T17:13:11.239713Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2612
+2019-07-17T17:13:40.427365Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-07-17T17:13:41.410166Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-07-17T17:13:41.737767Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-07-17T19:15:42.264186Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-07-17T19:15:51.468202Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-07-19T23:07:25.762497Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-07-19T23:07:25.949697Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1864
+2019-07-19T23:07:53.187345Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-07-19T23:07:54.357347Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-07-19T23:07:54.996948Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-07-20T05:09:16.023676Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-07-20T05:09:20.173284Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-07-20T05:10:45.614099Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-07-20T05:10:45.894899Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2040
+2019-07-20T05:11:14.801750Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-07-20T05:11:16.860953Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-07-20T05:11:18.493756Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-07-20T05:29:44.486660Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-07-20T05:29:52.895075Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-07-20T05:31:06.418882Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-07-20T05:31:15.560498Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-07-20T05:31:15.591699Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-07-20T05:31:15.638499Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-07-20T05:33:27.732931Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-07-20T05:33:31.570538Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-07-20T10:27:43.598856Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-07-20T10:27:43.708057Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1508
+2019-07-20T10:28:13.550909Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-07-20T10:28:14.954911Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-07-20T10:28:15.625713Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-07-20T15:28:17.572123Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-07-20T15:28:25.356537Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-07-23T15:19:49.916668Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-07-23T15:20:06.218696Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-07-23T15:20:07.295098Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-07-23T15:20:07.310698Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-07-23T17:44:36.108100Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-07-23T17:44:43.252913Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-07-25T15:00:36.760651Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-07-25T15:00:36.869852Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2016
+2019-07-25T15:00:57.290288Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-07-25T15:00:58.413490Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-07-25T15:00:58.959490Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-07-25T20:30:27.564877Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-07-25T20:30:35.801692Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-07-26T20:36:26.089684Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-07-26T20:36:30.956892Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-07-26T20:36:31.268893Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-07-26T20:36:31.502893Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-07-26T23:49:55.381044Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-07-26T23:49:59.249851Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-07-30T15:17:19.798476Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-07-30T15:17:19.938876Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2080
+2019-07-30T15:17:49.282528Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-07-30T15:17:51.840932Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-07-30T15:17:54.071736Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-07-30T16:59:30.278876Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-07-30T16:59:34.038482Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-07-30T17:03:11.403057Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-07-30T17:03:11.683857Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1288
+2019-07-30T17:03:35.981100Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-07-30T17:03:36.620701Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-07-30T17:03:37.041902Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-08-01T15:35:07.090123Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-08-01T15:35:21.788349Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-08-01T15:37:08.607052Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-08-01T15:37:08.731852Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1048
+2019-08-01T15:37:24.659480Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-08-01T15:37:25.377081Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-08-01T15:37:26.016682Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-08-01T17:09:34.642228Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-08-01T17:09:41.209839Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-08-03T10:10:33.038471Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-08-03T10:10:33.054071Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1500
+2019-08-03T10:10:40.651285Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-08-03T10:10:40.682485Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-08-03T10:10:40.900885Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-08-03T12:16:13.697007Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-08-03T12:16:22.776222Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-08-25T06:59:40.648706Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-08-25T06:59:40.695506Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2152
+2019-08-25T06:59:58.911138Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-08-25T06:59:59.909539Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-08-25T07:00:00.642741Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-08-26T15:29:38.128277Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-08-26T15:29:38.237477Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1580
+2019-08-26T15:29:59.250714Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2019-08-26T15:30:01.497118Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-08-26T15:30:02.433119Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-08-26T15:30:02.979120Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-08-26T18:03:31.907793Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-08-26T18:03:35.917000Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-08-27T16:07:03.547673Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-08-27T16:07:03.594473Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2296
+2019-08-27T16:07:16.136895Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-08-27T16:07:16.277295Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-08-27T16:07:16.386495Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-08-27T19:16:59.701015Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-08-27T19:17:05.925426Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-09-02T09:24:22.539860Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-09-02T09:24:22.602260Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1700
+2019-09-02T09:24:41.010292Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-09-02T09:24:42.039894Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-09-02T09:24:42.539095Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-09-02T16:46:19.862018Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-09-02T16:46:24.183226Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-09-05T18:11:03.267340Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-09-05T18:11:03.548140Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2648
+2019-09-05T18:11:33.441793Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-09-05T18:11:34.471395Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-09-05T18:11:35.032996Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-09-05T20:38:57.043678Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-09-05T20:39:00.553685Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-09-06T12:45:11.831725Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-09-06T12:45:12.096926Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2344
+2019-09-06T12:45:45.689784Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-09-06T12:45:47.000187Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-09-06T12:45:48.076588Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-09-06T21:24:55.121670Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-09-06T21:25:02.328882Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-09-30T19:06:04.702076Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-09-30T19:06:04.780076Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2668
+2019-09-30T19:06:24.997711Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-09-30T19:06:25.231712Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-09-30T19:06:25.434512Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-09-30T22:05:50.334355Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-09-30T22:05:57.713168Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-10-03T19:58:19.512689Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-10-03T19:58:19.824690Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2856
+2019-10-03T19:58:53.271148Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-10-03T19:58:54.955951Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-10-03T19:58:56.079153Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-10-03T23:47:17.040680Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-10-03T23:47:24.840694Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-10-06T05:57:05.145471Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-10-06T05:57:07.298275Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2080
+2019-10-06T05:57:27.313110Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-10-06T05:57:27.687511Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-10-06T05:57:27.952711Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-10-06T06:08:07.979451Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-10-06T06:08:13.439461Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-10-06T06:09:44.637115Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-10-06T06:09:44.808715Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2676
+2019-10-06T06:10:09.100958Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-10-06T06:10:09.381759Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-10-06T06:10:10.130560Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-10-06T06:16:50.338256Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-10-06T06:16:54.799864Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-10-07T16:12:37.134072Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-10-07T16:12:37.180872Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2352
+2019-10-07T16:12:50.440895Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-10-07T16:12:55.464104Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-10-07T16:12:58.084908Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-10-07T18:56:36.728018Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-10-07T18:56:41.595227Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-10-16T18:01:17.795675Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-10-16T18:01:17.858075Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2356
+2019-10-16T18:01:36.858908Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-10-16T18:01:37.482909Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-10-16T18:01:37.701310Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-10-16T19:39:56.864396Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-10-16T19:40:04.305610Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-10-19T17:38:16.660452Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-10-19T17:38:16.738452Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1796
+2019-10-19T17:38:41.261695Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-10-19T17:38:41.526895Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-10-19T17:38:41.932496Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-10-19T19:31:23.074756Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-10-19T19:31:28.316365Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-10-23T06:21:26.723864Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-10-23T06:21:26.770664Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2252
+2019-10-23T06:21:38.735885Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-10-23T06:21:39.500286Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-10-23T06:21:40.015087Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-10-23T06:59:03.143350Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-10-23T06:59:10.678164Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-10-23T07:11:09.702504Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-10-23T07:11:09.874104Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2168
+2019-10-23T07:11:28.438137Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-10-23T07:11:29.342938Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-10-23T07:11:30.013740Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-10-23T10:48:39.145409Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-10-23T10:48:42.000214Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-10-23T11:32:03.100945Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-10-23T11:32:03.381745Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2744
+2019-10-23T11:32:36.641004Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-10-23T11:32:38.029406Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-10-23T11:32:38.637807Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-10-23T12:20:06.144004Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-10-23T12:20:09.638410Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-10-25T06:52:52.079885Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-10-25T06:52:52.189085Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 856
+2019-10-25T06:53:38.848767Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-10-25T06:53:39.004767Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-10-25T06:53:39.160767Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-10-25T12:25:30.921916Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-10-25T12:25:37.161927Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-11-11T16:43:10.098113Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-11-11T16:43:10.285314Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1480
+2019-11-11T16:43:36.446560Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-11-11T16:43:37.756962Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-11-11T16:43:38.490163Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-11-11T19:38:10.413983Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-11-11T19:38:19.477599Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-12-11T16:25:29.730667Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-12-11T16:25:29.746267Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2396
+2019-12-11T16:25:44.004692Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-12-11T16:25:44.051492Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-12-11T16:25:44.129493Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-12-11T23:54:48.881798Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-12-11T23:54:54.607008Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-12-13T15:44:32.746915Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-12-13T15:44:32.965315Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1348
+2019-12-13T15:44:58.206159Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-12-13T15:44:59.173361Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-12-13T15:44:59.532162Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-12-13T16:44:08.406670Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-12-13T16:44:15.114682Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-12-14T15:17:59.612658Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-12-14T15:17:59.675058Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2416
+2019-12-14T15:18:11.733880Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-12-14T15:18:12.014680Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-12-14T15:18:12.279880Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-12-14T17:05:08.200493Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-12-14T17:05:12.724501Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-12-19T15:53:37.607270Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2019-12-19T15:53:37.919271Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 844
+2019-12-19T15:53:56.623704Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-12-19T15:53:56.982505Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-12-19T15:53:57.341305Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-12-19T23:01:04.795299Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2019-12-19T23:01:14.654516Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-01-04T11:54:35.789729Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-01-04T11:54:36.257730Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2368
+2020-01-04T11:55:13.640195Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-01-04T11:55:14.810197Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-01-04T11:55:15.168998Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-01-04T14:41:12.546117Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-01-04T14:41:17.740926Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-01-17T18:49:08.255317Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-01-17T18:49:08.754518Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1892
+2020-01-17T18:49:46.100983Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-01-17T18:49:47.255385Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-01-17T18:49:47.832586Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-01-17T23:00:00.727800Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-01-17T23:00:07.903813Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-01-27T18:02:12.627693Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-01-27T18:02:12.658893Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2908
+2020-01-27T18:02:23.594513Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-01-27T18:02:23.844113Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-01-27T18:02:23.984513Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-01-27T20:00:28.835327Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-01-27T20:00:34.997338Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-02-15T18:49:02.037861Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-02-15T18:49:11.850278Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-02-15T18:49:12.380679Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-02-15T18:49:12.630279Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-02-15T22:06:29.103037Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-02-15T22:06:39.058854Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-02-19T20:11:15.115324Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-02-19T20:11:15.349324Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 780
+2020-02-19T20:11:41.916171Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-02-19T20:11:43.226573Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-02-19T20:11:44.022175Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-02-19T21:02:18.115722Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-02-19T21:02:24.341133Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-02-22T11:55:16.260263Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-02-22T11:55:16.291463Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2364
+2020-02-22T11:55:25.635879Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-02-22T11:55:25.776280Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-02-22T11:55:25.838680Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-02-22T14:55:56.240079Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-02-22T14:56:03.280691Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-02-24T18:56:50.462270Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-02-24T18:56:50.602671Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2052
+2020-02-24T18:57:27.304335Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-02-24T18:57:28.365137Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-02-24T18:57:28.833137Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-02-24T20:29:02.479431Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-02-24T20:29:05.803237Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-03-01T14:33:36.792696Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-03-01T14:33:42.689506Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-01T14:33:42.798706Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-01T14:33:42.892307Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-01T15:17:40.963141Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-03-01T15:17:47.391353Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-03-04T17:31:27.624651Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-03-04T17:31:27.702651Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2156
+2020-03-04T17:31:40.135873Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-04T17:31:40.947075Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-04T17:31:41.181075Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-04T22:54:51.548413Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-03-04T22:54:58.727426Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-03-05T17:47:16.817325Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-03-05T17:47:17.020126Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2056
+2020-03-05T17:47:51.957787Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-05T17:47:53.002989Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-05T17:47:53.720590Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-05T21:01:13.705163Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-03-05T21:01:16.000367Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-03-06T17:59:20.498916Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-03-06T17:59:20.779716Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1880
+2020-03-06T18:00:00.256585Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-06T18:00:01.457788Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-06T18:00:01.941388Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-06T23:34:34.243725Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-03-06T23:34:41.999938Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-03-07T05:20:02.806874Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-03-07T05:20:02.947275Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2392
+2020-03-07T05:20:30.325323Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-07T05:20:31.557725Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-07T05:20:32.306526Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-07T05:29:10.940076Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-03-07T05:29:10.986876Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1496
+2020-03-07T05:29:19.988092Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2020-03-07T05:29:21.922496Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-07T05:29:22.640097Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-07T05:29:23.045698Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-07T16:06:03.208504Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-03-07T16:06:08.441513Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-03-07T20:11:15.943773Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-03-07T20:11:16.099773Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 3800
+2020-03-07T20:11:41.995819Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-07T20:11:43.275021Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-07T20:11:45.427825Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-08T12:44:45.551148Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-03-08T12:44:50.951758Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-03-10T19:14:48.110461Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-03-10T19:14:48.266461Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2280
+2020-03-10T19:15:10.636900Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-10T19:15:11.666502Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-10T19:15:12.150103Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-10T20:18:32.631721Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-03-10T20:18:39.313533Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-03-13T17:28:36.280886Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-03-13T17:29:32.898185Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-13T17:29:33.007385Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-13T17:29:33.241386Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-13T18:59:25.695597Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-03-13T18:59:31.702608Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-03-13T19:00:48.193491Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-03-13T19:00:48.318291Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1964
+2020-03-13T19:01:11.141131Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-13T19:01:12.108333Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-13T19:01:12.685534Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-13T19:26:48.405484Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-03-13T19:26:51.604489Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-03-13T19:28:08.699495Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-03-13T19:28:09.027096Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2292
+2020-03-13T19:28:51.266770Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-13T19:28:52.421172Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-13T19:28:53.029573Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-13T19:46:41.950477Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-03-13T19:46:45.180683Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-03-21T16:32:32.610388Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-03-21T16:32:32.750788Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 4664
+2020-03-21T16:32:50.722019Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-21T16:32:51.408421Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-21T16:32:51.923221Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-21T22:28:19.009060Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-03-21T22:28:22.832067Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-03-21T22:29:43.813501Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-03-21T22:29:43.969501Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1660
+2020-03-21T22:30:56.374028Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-21T22:30:57.497230Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-21T22:30:58.168031Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-22T13:59:03.208206Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-03-22T13:59:13.323024Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-03-22T16:47:28.977726Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-03-22T16:47:29.133726Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1100
+2020-03-22T16:47:56.464974Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-22T16:47:57.572576Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-22T16:47:58.024977Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-22T18:58:47.353038Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-03-22T18:58:49.709642Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-03-22T20:47:57.681918Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-03-22T20:47:58.025118Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2900
+2020-03-22T20:48:16.901151Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-22T20:48:18.008753Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-22T20:48:18.585954Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-23T17:25:40.306497Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-03-23T17:25:42.835701Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-03-24T04:43:24.743472Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-03-24T04:43:24.899472Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2300
+2020-03-24T04:43:37.847495Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-24T04:43:38.112696Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-24T04:43:38.393496Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-24T15:15:50.764221Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-03-24T15:15:57.537634Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-03-25T04:41:52.058669Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-03-25T04:41:52.183469Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2304
+2020-03-25T04:42:12.791106Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-25T04:42:38.047550Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-25T04:42:59.778388Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-26T03:22:11.744501Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-03-26T03:22:20.176318Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-03-26T05:30:25.264352Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-03-26T05:30:25.701153Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2664
+2020-03-26T05:31:00.472814Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-26T05:31:03.327619Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-26T05:31:04.622421Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-26T15:22:47.740414Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-03-26T15:22:52.327822Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-03-26T21:42:02.900315Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-03-26T21:42:03.025115Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1708
+2020-03-26T21:42:28.983561Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-26T21:42:29.950762Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-26T21:42:30.356363Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-26T21:51:28.052990Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-03-26T21:51:31.813596Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-03-27T03:47:28.839913Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-03-27T03:47:29.214314Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2420
+2020-03-27T03:48:12.800790Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-27T03:48:14.126792Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-27T03:48:14.469993Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-27T15:02:52.051683Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-03-27T15:02:56.827291Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-03-27T16:35:09.997861Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-03-27T16:35:10.107061Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1520
+2020-03-27T16:35:33.507102Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-27T16:35:34.739504Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-27T16:35:35.831506Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-27T16:46:51.084622Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-03-27T16:46:56.515432Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-03-27T17:19:08.997269Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-03-27T17:19:20.042088Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-27T17:19:20.073289Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-27T17:19:20.182489Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-27T20:49:24.129025Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-03-27T20:49:29.388234Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-03-28T14:14:58.886461Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-03-28T14:14:58.995661Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1548
+2020-03-28T14:15:19.821698Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-28T14:15:20.882500Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-28T14:15:21.834101Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-28T21:57:56.739103Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-03-28T21:58:03.746516Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-03-29T18:39:22.950882Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-03-29T18:39:23.013282Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2092
+2020-03-29T18:39:45.258921Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-03-29T18:39:45.914122Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-03-29T18:39:48.160526Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-03-31T03:20:46.167204Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-03-31T03:20:56.920623Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-04-04T17:49:26.178549Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-04-04T17:49:26.459349Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2080
+2020-04-04T17:49:56.083801Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-04-04T17:49:57.222603Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-04-04T17:49:57.831004Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-04-04T18:40:10.971715Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-04-04T18:40:20.194331Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-04-04T18:42:14.281166Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-04-04T18:42:14.296766Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 3584
+2020-04-04T18:42:44.272419Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-04-04T18:42:46.008822Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-04-04T18:42:47.195424Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-04-04T21:06:30.802764Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-04-04T21:06:33.924769Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-04-05T09:08:50.656514Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-04-05T09:08:50.781315Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1244
+2020-04-05T09:09:19.157765Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-04-05T09:09:20.280967Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-04-05T09:09:20.936168Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-04-05T09:26:57.365665Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-04-05T09:26:59.958270Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-04-06T19:18:17.127659Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-04-06T19:18:17.143259Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1148
+2020-04-06T19:19:01.574937Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-04-06T19:19:01.793338Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-04-06T19:19:02.120938Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-04-06T19:23:48.962176Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-04-06T19:23:56.553592Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-04-07T03:58:51.588522Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-04-07T03:58:51.604122Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 3404
+2020-04-07T03:59:55.096233Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-04-07T03:59:56.562636Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-04-07T03:59:58.715439Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-04-07T14:18:53.911595Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-04-07T14:18:56.456399Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-04-07T14:45:38.768576Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-04-07T14:45:39.064976Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2740
+2020-04-07T14:46:15.803041Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-04-07T14:46:17.409844Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-04-07T14:46:18.174245Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-04-07T15:28:46.751056Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-04-07T15:28:51.697265Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-04-09T03:40:12.162319Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-04-09T03:40:12.209119Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 3068
+2020-04-09T03:40:42.831973Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-04-09T03:40:43.970775Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-04-09T03:40:44.937976Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-04-09T16:15:17.572307Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-04-09T16:15:23.875718Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-04-11T08:45:33.441779Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-04-11T08:45:33.831780Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 3052
+2020-04-11T08:46:19.680260Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-04-11T08:46:21.271463Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-04-11T08:46:21.833064Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-04-11T08:59:57.809487Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-04-11T09:00:02.024494Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-04-13T18:29:33.443884Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-04-13T18:29:33.506284Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2412
+2020-04-13T18:29:56.063924Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-04-13T18:29:56.516325Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-04-13T18:29:56.984326Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-04-13T19:08:23.903988Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-04-13T19:08:27.555395Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-04-14T03:41:25.800078Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-04-14T03:41:26.049678Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2152
+2020-04-14T03:41:51.618123Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-04-14T03:41:52.522925Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-04-14T03:41:53.068926Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-04-14T19:01:58.457990Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-04-14T19:02:03.419799Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-04-15T16:02:48.106369Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-04-15T16:02:48.293570Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2656
+2020-04-15T16:03:37.776857Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-04-15T16:03:40.569262Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-04-15T16:03:41.536463Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-04-15T17:47:34.654154Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-04-15T17:47:37.775160Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-04-15T17:49:08.615922Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-04-15T17:49:08.693922Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 3516
+2020-04-15T17:49:27.460755Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-04-15T17:49:28.552757Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-04-15T17:49:28.942757Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-04-15T20:57:03.844542Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-04-15T20:57:09.336752Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-04-16T04:06:35.760139Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-04-16T04:06:36.134540Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1712
+2020-04-16T04:07:04.807390Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-04-16T04:07:06.086593Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-04-16T04:07:06.741794Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-04-17T00:37:35.529168Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-04-17T00:37:41.598579Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-04-19T18:01:17.644147Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-04-19T18:01:18.143348Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2284
+2020-04-19T18:01:51.636607Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-04-19T18:01:53.196610Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-04-19T18:01:53.929811Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-04-19T19:53:16.310551Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-04-19T19:53:19.712357Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-04-21T04:02:16.501148Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-04-21T04:02:16.719548Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2064
+2020-04-21T04:02:47.280002Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-04-21T04:02:48.450004Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-04-21T04:02:48.949205Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-04-21T21:42:14.081015Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-04-21T21:42:23.584432Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-04-22T17:07:38.539546Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-04-22T17:07:39.069947Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 500
+2020-04-22T17:08:09.864401Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-04-22T17:08:10.956403Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-04-22T17:08:11.471204Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-04-22T19:52:26.291237Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-04-22T19:52:34.593452Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-04-23T04:09:23.006941Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-04-23T04:09:23.459342Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2116
+2020-04-23T04:09:54.924597Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-04-23T04:09:56.125800Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-04-23T04:09:56.640601Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-04-23T17:05:08.856217Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-04-23T17:05:14.712228Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-04-23T18:12:20.928941Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-04-23T18:12:21.162942Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 224
+2020-04-23T18:12:50.880994Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-04-23T18:12:52.097796Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-04-23T18:12:52.596997Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-04-23T19:05:10.486223Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-04-23T19:05:15.794233Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-04-23T19:18:35.965152Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-04-23T19:18:36.121152Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 3376
+2020-04-23T19:18:58.507191Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-04-23T19:18:59.552393Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-04-23T19:19:00.659995Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-04-23T21:34:22.086353Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-04-23T21:34:28.220164Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-04-26T14:01:35.977080Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-04-26T14:01:36.023880Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2184
+2020-04-26T14:01:51.889108Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-04-26T14:01:52.778310Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-04-26T14:01:53.495911Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-04-26T18:29:16.474153Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-04-26T18:29:19.972559Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-04-27T19:39:52.176980Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-04-27T19:39:52.192580Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 4944
+2020-04-27T19:41:20.664335Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-04-27T19:41:24.736943Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-04-27T19:41:26.468546Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-04-28T14:50:28.418867Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-04-28T14:50:36.583682Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-05-03T13:39:24.246940Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-05-03T13:39:24.465340Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 224
+2020-05-03T13:39:59.627802Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-03T13:40:01.328205Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-05-03T13:40:01.718206Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-05-03T19:48:39.680777Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-05-03T19:48:47.092791Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-05-08T06:38:37.821818Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-05-08T06:38:38.336619Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 3160
+2020-05-08T06:39:25.343101Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-08T06:39:26.825104Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-05-08T06:39:27.527105Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-05-08T06:53:09.414609Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-05-08T06:53:14.630626Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-05-09T14:59:01.119489Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-05-09T14:59:01.228690Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2536
+2020-05-09T14:59:22.879527Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-09T14:59:23.737529Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-05-09T14:59:25.843533Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-05-09T16:41:16.100120Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-05-09T16:41:22.968132Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-05-09T19:47:11.107264Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-05-09T19:47:11.325665Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2184
+2020-05-09T19:47:35.287307Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-09T19:47:36.020508Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-05-09T19:47:36.410509Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-05-09T22:39:40.138518Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-05-09T22:39:45.732329Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-05-10T16:07:42.476688Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-05-10T16:07:42.554688Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2224
+2020-05-10T16:08:00.447919Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-10T16:08:00.479119Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-05-10T16:08:00.650720Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-05-11T00:02:32.527545Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-05-11T00:02:36.837596Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-05-12T15:26:02.404172Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-05-12T15:26:02.684972Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1152
+2020-05-12T15:26:41.794241Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-12T15:26:43.385444Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-05-12T15:26:43.791045Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-05-12T17:17:56.094410Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-05-12T17:18:00.775418Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-05-25T15:26:00.172905Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-05-25T15:26:00.484905Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1412
+2020-05-25T15:26:29.001755Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-25T15:26:30.062557Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-05-25T15:26:30.702158Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-05-25T19:56:50.967568Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-05-25T19:56:57.552779Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-05-26T16:00:28.405828Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-05-26T16:00:28.702229Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 744
+2020-05-26T16:01:08.856699Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-26T16:01:09.964301Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-05-26T16:01:10.697503Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-05-26T19:57:43.751383Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-05-26T19:57:50.462395Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-05-27T16:43:47.761883Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-05-27T16:43:47.855483Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2516
+2020-05-27T16:44:10.229522Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-27T16:44:11.602325Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-05-27T16:44:12.429126Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-05-27T20:47:33.172155Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-05-27T20:47:36.619761Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-06-02T16:44:40.381740Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-06-02T16:44:41.005741Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2288
+2020-06-02T16:45:15.692602Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-06-02T16:45:17.049804Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-06-02T16:45:17.689406Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-06-02T19:14:46.740455Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-06-02T19:14:55.560471Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-06-10T16:43:34.845752Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-06-10T16:43:35.532153Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2088
+2020-06-10T16:44:01.225398Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-06-10T16:44:02.348600Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-06-10T16:44:02.707401Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-06-10T19:23:25.442643Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-06-10T19:23:31.466253Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-06-10T19:25:42.304191Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-06-10T19:25:42.538192Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2088
+2020-06-10T19:26:16.561851Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-06-10T19:26:17.825454Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-06-10T19:26:18.652255Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-06-11T01:22:19.081318Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-06-11T01:22:22.638124Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-06-19T19:54:42.149545Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-06-19T19:54:42.336746Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2504
+2020-06-19T19:55:09.823994Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-06-19T19:55:10.900396Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-06-19T19:55:11.711597Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-06-19T20:18:12.488477Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-06-19T20:18:19.727890Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-06-26T20:39:33.317665Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-06-26T20:39:33.348865Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2160
+2020-06-26T20:39:59.276110Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-06-26T20:40:00.492913Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-06-26T20:40:01.865715Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-06-26T21:14:32.396961Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-06-26T21:14:41.810778Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-06-29T19:38:57.452749Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-06-29T19:38:57.655550Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2448
+2020-06-29T19:39:24.393997Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-06-29T19:39:25.220798Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-06-29T19:39:25.517199Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-06-30T02:38:06.395261Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-06-30T02:38:14.074475Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-07-08T15:04:52.130964Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-07-08T15:04:52.645765Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2312
+2020-07-08T15:05:19.477813Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-07-08T15:05:20.632215Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-07-08T15:05:21.053415Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-07-08T19:50:26.856048Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-07-08T19:50:30.723463Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-07-11T05:12:39.419875Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-07-11T05:12:39.482275Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2396
+2020-07-11T05:12:48.889092Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-07-11T05:12:49.544293Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-07-11T05:12:50.043494Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-07-11T06:22:43.796678Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-07-11T06:22:50.007489Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-07-13T16:24:05.935517Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-07-13T16:24:06.044717Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2252
+2020-07-13T16:24:47.993191Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-07-13T16:24:51.237996Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-07-13T16:24:52.205198Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-07-13T17:27:45.326864Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-07-13T17:27:48.970873Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-07-22T08:45:55.859880Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-07-22T08:45:55.922280Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2404
+2020-07-22T08:46:24.283130Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-07-22T08:46:27.283135Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-07-22T08:46:28.078736Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-07-22T13:25:57.279583Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-07-22T13:26:03.943011Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-07-22T18:03:18.883348Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-07-22T18:03:19.164148Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2400
+2020-07-22T18:03:46.666997Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-07-22T18:03:47.946199Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-07-22T18:03:48.398600Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-07-22T18:25:57.755669Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-07-22T18:26:02.500077Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-07-22T18:35:57.655068Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-07-22T18:35:57.701868Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2340
+2020-07-22T18:36:12.069493Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-07-22T18:36:35.235534Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-07-22T18:36:40.243142Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-07-23T07:21:39.952704Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-07-23T07:21:46.519122Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-07-24T20:00:03.241570Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-07-24T20:00:03.257170Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 3916
+2020-07-24T20:00:10.776383Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-07-24T20:00:10.869983Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-07-24T20:00:10.901183Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-07-24T20:33:11.670162Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-07-24T20:33:18.940978Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-09-03T20:46:16.371886Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-09-03T20:46:16.403086Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2608
+2020-09-03T20:46:41.690730Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-09-03T20:46:41.955931Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-09-03T20:46:42.174331Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-09-03T21:02:24.896742Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-09-03T21:02:28.719748Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-09-04T05:41:34.420863Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-09-04T05:41:34.498863Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2528
+2020-09-04T05:41:43.172478Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-09-04T05:41:43.281679Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-09-04T05:41:43.546879Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-09-04T05:49:42.666833Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-09-04T05:49:46.020839Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-09-04T05:56:45.034104Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-09-04T05:56:45.626905Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2584
+2020-09-04T05:57:12.084552Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-09-04T05:57:12.864553Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-09-04T05:57:13.301354Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-09-04T06:02:52.705714Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-09-04T06:02:55.890120Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-09-04T07:17:58.003664Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-09-04T07:17:58.050464Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2072
+2020-09-04T07:18:06.552479Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-09-04T07:18:07.363681Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-09-04T07:18:07.753681Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-09-04T07:37:09.757282Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-09-04T07:37:16.485894Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-09-04T17:13:51.324066Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-09-04T17:13:56.113275Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-09-04T17:13:56.160075Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-09-04T17:13:56.253675Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-09-04T20:24:20.371493Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-09-04T20:24:23.865899Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-09-14T20:42:25.423275Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-09-14T20:42:25.610475Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2360
+2020-09-14T20:42:43.347707Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-09-14T20:42:43.956108Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-09-14T20:42:44.424108Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-09-15T03:03:26.304473Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-09-15T03:03:32.236928Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-09-16T16:00:38.690997Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-09-16T16:00:38.878198Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2192
+2020-09-16T16:01:10.546253Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-09-16T16:01:11.685055Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-09-16T16:01:12.184256Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-09-16T17:33:16.308061Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-09-16T17:33:22.080071Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-09-21T18:21:33.277076Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-09-21T18:21:33.386276Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2528
+2020-09-21T18:21:52.387109Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-09-21T18:21:53.853512Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-09-21T18:21:54.290313Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-09-21T18:31:33.950898Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-09-21T18:31:38.476906Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-09-25T17:27:06.684139Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-09-25T17:27:19.242161Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-09-25T17:27:19.320161Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-09-25T17:27:19.444961Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-09-25T21:33:54.121537Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-09-25T21:34:01.069162Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-09-26T06:06:12.826081Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-09-26T06:06:12.904082Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2472
+2020-09-26T06:06:33.464918Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-09-26T06:06:34.525720Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-09-26T06:06:35.134121Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-09-26T07:11:57.938711Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-09-26T07:12:07.186928Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-10-01T18:03:10.395930Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-10-01T18:03:27.903561Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-10-01T18:03:27.965961Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-10-01T18:03:28.059562Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-10-01T20:34:57.169910Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-10-01T20:35:00.696119Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-10-06T17:46:51.732873Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-10-06T17:46:51.795273Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2524
+2020-10-06T17:47:08.300102Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-10-06T17:47:09.048903Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-10-06T17:47:09.563704Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-10-06T18:43:11.855349Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-10-06T18:43:19.930366Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-10-15T18:36:01.727276Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-10-15T18:36:08.700488Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-10-15T18:36:09.074889Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-10-15T18:36:09.199689Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-10-15T19:38:21.528027Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-10-15T19:38:28.021842Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-10-15T19:41:09.280154Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-10-15T19:41:09.545354Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1168
+2020-10-15T19:41:50.372226Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-10-15T19:41:51.838629Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-10-15T19:41:52.337830Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-10-15T20:44:27.472036Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-10-15T20:44:30.935643Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-10-26T18:53:45.206493Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-10-26T18:53:45.268893Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2820
+2020-10-26T18:54:02.584923Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-10-26T18:54:03.552125Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-10-26T18:54:03.942126Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-10-26T20:05:43.485107Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-10-26T20:05:50.044921Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-10-27T16:30:46.758874Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-10-27T16:30:46.805674Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2904
+2020-10-27T16:31:10.190115Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-10-27T16:31:10.595716Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-10-27T16:31:10.860917Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-10-28T04:14:02.919184Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-10-28T04:14:10.548697Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-11-04T18:32:58.709622Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-11-04T18:32:59.068422Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 3260
+2020-11-04T18:33:42.249298Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-11-04T18:33:44.308502Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-11-04T18:33:46.415505Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-11-04T18:45:05.867567Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-11-04T18:45:09.113373Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-11-07T16:49:29.839287Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-11-07T16:49:29.979687Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2744
+2020-11-07T16:49:52.138526Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-11-07T16:49:53.136928Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-11-07T16:49:53.480128Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-11-07T18:21:22.373225Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-11-07T18:21:25.597232Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-11-08T16:49:29.055892Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-11-08T16:49:29.118292Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2700
+2020-11-08T16:49:53.438735Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-11-08T16:49:55.373139Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-11-08T16:49:55.560339Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-11-08T18:35:31.361691Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-11-08T18:35:37.203904Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-11-09T16:33:48.433763Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-11-09T16:33:48.792564Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2812
+2020-11-09T16:34:29.568236Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-11-09T16:34:31.268639Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-11-09T16:34:31.799040Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-11-09T19:42:10.237182Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-11-09T19:42:16.961199Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-11-11T20:40:30.165673Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-11-11T20:40:30.243673Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2812
+2020-11-11T20:40:49.026106Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-11-11T20:40:49.915308Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-11-11T20:40:50.196108Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-11-11T22:31:42.397735Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-11-11T22:31:49.086354Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-11-12T19:07:20.803717Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-11-12T19:07:20.990917Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 3548
+2020-11-12T19:07:51.317370Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-11-12T19:07:51.566971Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-11-12T19:07:51.847771Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-11-12T22:00:21.505385Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-11-12T22:00:27.561196Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-11-15T17:18:40.023875Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-11-15T17:18:40.055075Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2796
+2020-11-15T17:18:54.251100Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-11-15T17:18:55.920303Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-11-15T17:18:56.653504Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-11-15T20:36:38.049553Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-11-15T20:36:45.761376Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-11-16T04:49:27.869469Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-11-16T04:49:27.885069Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2708
+2020-11-16T04:49:36.823885Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-11-16T04:49:37.276286Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-11-16T04:49:37.323086Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-11-16T19:48:03.220378Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-11-16T19:48:08.700026Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-11-17T04:52:15.010943Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-11-17T04:52:15.260544Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2080
+2020-11-17T04:52:46.429398Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-11-17T04:52:47.365400Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-11-17T04:52:48.067401Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-11-17T18:00:46.373053Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-11-17T18:00:54.658987Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-11-18T15:39:28.513751Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-11-18T15:39:28.716551Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2684
+2020-11-18T15:39:54.955798Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-11-18T15:39:55.922999Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-11-18T15:39:56.375400Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-11-18T18:15:45.088937Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-11-18T18:15:52.528960Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-11-19T04:49:32.859463Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-11-19T04:49:32.875063Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2528
+2020-11-19T04:49:57.055106Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-11-19T04:49:57.242306Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-11-19T04:49:57.460706Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-11-19T16:57:24.330063Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-11-19T16:57:30.612529Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-11-24T04:56:06.313753Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-11-24T04:56:06.610153Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2524
+2020-11-24T04:56:31.726197Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-11-24T04:56:32.755799Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-11-24T04:56:33.161400Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-11-24T17:44:38.039782Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-11-26T04:55:04.441762Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-11-26T04:55:04.597762Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2408
+2020-11-26T04:55:32.865011Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2020-11-26T04:55:32.880611Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2020-11-26T04:55:35.735416Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-11-26T04:55:37.092619Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-11-26T04:55:37.763420Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-11-26T18:15:19.095088Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-11-26T18:15:27.899202Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-11-28T07:56:20.340353Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-11-28T07:56:20.792753Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2760
+2020-11-28T07:56:46.345598Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-11-28T07:56:47.359600Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-11-28T07:56:47.812001Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-11-28T08:02:42.606842Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-11-28T08:02:45.790248Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-11-29T08:57:33.081467Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-11-29T08:57:33.128267Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2676
+2020-11-29T08:57:59.273913Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-11-29T08:57:59.539113Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-11-29T08:57:59.757514Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-11-29T21:35:36.603351Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-11-29T21:35:43.785364Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-12-08T19:55:02.135756Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-08T19:55:02.291756Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2676
+2020-12-08T19:55:33.959812Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-12-08T19:55:35.441814Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-12-08T19:55:36.627416Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-12-08T20:04:56.122242Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-12-08T20:05:04.891458Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-12-12T13:53:33.287814Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-12T13:53:33.631014Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 3452
+2020-12-12T13:54:26.926516Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-12-12T13:54:28.286518Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-12-12T13:54:29.396519Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-12-15T12:09:23.857489Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-15T12:09:23.919889Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2540
+2020-12-15T12:09:43.076722Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2020-12-15T12:09:43.092322Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2020-12-15T12:09:45.728727Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-12-15T12:09:46.945529Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-12-15T12:09:47.288730Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-12-15T13:01:36.669462Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-12-15T13:01:41.114672Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-12-15T14:17:25.720334Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-15T14:17:25.782734Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 3652
+2020-12-15T14:18:06.857606Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-12-15T14:18:08.308409Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-12-15T14:18:09.213210Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-12-15T15:16:17.095386Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-12-15T15:16:20.973198Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-12-15T15:17:58.005476Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-15T15:17:58.099076Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2656
+2020-12-15T15:18:17.817511Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-12-15T15:18:18.550712Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-12-15T15:18:18.878313Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-12-15T15:43:01.009161Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-12-15T15:43:05.024769Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-12-17T12:55:47.584269Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-17T12:55:52.888278Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-12-17T12:55:52.935079Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-12-17T12:55:53.091079Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-12-17T13:46:46.597392Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-12-17T13:46:50.357998Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-12-19T13:39:41.921133Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-19T13:39:42.201933Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 592
+2020-12-19T13:40:07.005977Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-12-19T13:40:08.971580Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-12-19T13:40:09.564381Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-12-19T14:15:47.915027Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-12-19T14:15:52.942236Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-12-21T18:33:52.023106Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-21T18:33:52.054306Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2992
+2020-12-21T18:34:06.000731Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-12-21T18:34:07.092733Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-12-21T18:34:07.326733Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-12-21T20:28:11.245891Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-12-21T20:28:15.084304Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-12-22T17:29:50.524288Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-22T17:29:50.695888Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2704
+2020-12-22T17:30:12.769927Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-12-22T17:30:13.674729Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-12-22T17:30:14.205130Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-12-22T18:51:12.441124Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-12-22T18:51:19.792948Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-12-22T19:45:23.937371Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-22T19:45:24.062171Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2720
+2020-12-22T19:46:07.533848Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-12-22T19:46:08.563450Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-12-22T19:46:09.031451Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-12-22T20:04:38.611280Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-12-22T20:04:45.507492Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-12-25T06:00:26.687676Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-25T06:00:26.703276Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2752
+2020-12-25T06:00:36.734093Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-12-25T06:00:37.155294Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-12-25T06:00:37.529695Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-12-25T06:17:39.352023Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-12-25T06:17:45.814435Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2020-12-31T13:37:56.241348Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-31T13:38:02.918160Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-12-31T13:38:03.011760Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-12-31T13:38:03.058560Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-12-31T13:43:54.609770Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2020-12-31T13:43:57.808776Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2021-01-04T04:34:31.200072Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-01-04T04:34:31.293672Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2224
+2021-01-04T04:34:55.021313Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-01-04T04:34:56.347316Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-01-04T04:34:56.908917Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-01-04T14:38:13.138176Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2021-01-04T14:38:16.573182Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2021-01-04T14:39:45.766323Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-01-04T14:39:45.906723Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 1616
+2021-01-04T14:40:07.528361Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-01-04T14:40:08.526763Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-01-04T14:40:08.963564Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-01-04T16:03:25.200918Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2021-01-04T16:03:27.361124Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2021-01-04T16:12:45.521272Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-01-04T16:12:45.568072Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2668
+2021-01-04T16:13:03.367703Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-01-04T16:13:04.303705Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-01-04T16:13:04.880906Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-01-04T16:34:49.573060Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2021-01-04T16:34:53.099667Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2021-01-05T04:32:44.765064Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-01-05T04:32:44.796264Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2712
+2021-01-05T04:32:55.685083Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-01-05T04:32:55.716283Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-01-05T04:32:55.747483Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-01-05T14:58:47.127804Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2021-01-05T14:58:51.654653Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2021-01-06T04:32:18.453270Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-01-06T04:32:18.500070Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2396
+2021-01-06T04:32:36.596102Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-01-06T04:32:37.610104Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-01-06T04:32:37.968905Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-01-07T12:01:00.175818Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2021-01-07T12:01:21.933897Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2021-01-07T12:03:24.167981Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-01-07T12:03:24.433181Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2308
+2021-01-07T12:04:12.621666Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-01-07T12:04:14.618469Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-01-07T12:04:17.014474Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-01-07T15:27:25.970199Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2021-01-07T15:27:35.459623Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2021-01-08T04:36:31.124966Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-01-08T04:36:31.265366Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2264
+2021-01-08T04:37:01.545020Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-01-08T04:37:02.699422Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-01-08T04:37:03.120622Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-01-08T06:15:21.565391Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2021-01-08T06:15:27.974403Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2021-01-08T10:06:34.738304Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-01-08T10:06:43.287119Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-01-08T10:06:43.380719Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-01-08T10:06:43.505520Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-01-08T18:05:42.885120Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2021-01-08T18:05:48.937784Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2021-01-11T11:01:03.363749Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-01-11T11:01:03.660150Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2680
+2021-01-11T11:01:29.244195Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-01-11T11:01:30.148996Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-01-11T11:01:30.492197Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-01-11T13:09:54.888927Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2021-01-11T13:09:58.617734Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2021-01-11T13:11:00.324672Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-01-11T13:11:00.355872Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2604
+2021-01-11T13:11:19.107105Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-01-11T13:11:20.464307Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-01-11T13:11:20.776308Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-01-11T13:23:20.790840Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2021-01-11T13:23:24.413047Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2021-01-12T05:54:42.454495Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-01-12T05:54:48.164105Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-01-12T05:54:48.273305Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-01-12T05:54:48.538505Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-01-12T16:02:05.931889Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2021-01-12T16:02:15.543817Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2021-01-13T07:52:32.580153Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-01-13T07:52:32.876554Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 2584
+2021-01-13T07:52:56.884996Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-01-13T07:52:57.898997Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-01-13T07:52:58.304598Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-01-14T10:29:10.867189Z 16 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.16).
+2021-01-14T10:29:10.886190Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2021-01-14T10:29:12.830234Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2021-01-14T10:29:20.132319Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-01-14T10:29:20.136320Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.16) starting as process 3560
+2021-01-14T10:29:29.101470Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-01-14T10:29:29.402471Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.16'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-01-14T10:29:29.445473Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
